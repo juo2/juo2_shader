@@ -195,11 +195,13 @@
      <None Include="Assets\unity_builtin_shaders-5.6.2f1_2\DefaultResourcesExtra\Unlit\Unlit-AlphaTest.shader" />
      <None Include="Assets\unity_builtin_shaders-5.6.2f1_2\DefaultResourcesExtra\Normal-Bumped.shader" />
      <None Include="Assets\unity_builtin_shaders-5.6.2f1_2\DefaultResources\Internal-ErrorShader.shader" />
+     <None Include="Assets\Shaders\Cartoon.shader" />
      <None Include="Assets\unity_builtin_shaders-5.6.2f1_2\DefaultResourcesExtra\Normal-ParallaxSpec.shader" />
      <None Include="Assets\unity_builtin_shaders-5.6.2f1_2\DefaultResourcesExtra\TerrainShaders\Splats\Standard-AddPass.shader" />
      <None Include="Assets\unity_builtin_shaders-5.6.2f1_2\DefaultResourcesExtra\Nature\TreeCreator\TreeCreatorBarkRendertex.shader" />
      <None Include="Assets\unity_builtin_shaders-5.6.2f1_2\CGIncludes\AutoLight.cginc" />
      <None Include="Assets\unity_builtin_shaders-5.6.2f1_2\DefaultResourcesExtra\UI\UI-Lit-Bumped.shader" />
+     <None Include="Assets\Shaders\Cartoon2.shader" />
      <None Include="Assets\unity_builtin_shaders-5.6.2f1_2\DefaultResourcesExtra\Decal.shader" />
      <None Include="Assets\unity_builtin_shaders-5.6.2f1_2\DefaultResourcesExtra\UI\UI-Lit-RefractionDetail.shader" />
      <None Include="Assets\unity_builtin_shaders-5.6.2f1_2\DefaultResourcesExtra\UI\UI-Default.shader" />
